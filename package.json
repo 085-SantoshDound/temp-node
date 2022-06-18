@@ -1,0 +1,17 @@
+{
+  "name": "exp",
+  "version": "1.0.0",
+  "main": "1-index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.16"
+  }
+}
